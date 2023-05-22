@@ -22,7 +22,7 @@
 
     'assets': {
         'web.assets_backend': [
-            'cocgiay_vietcocviet.png/static/src/css/style.css'
+            'cocgiay_viet/static/src/css/style.css'
         ],
         'web._assets_primary_variables': [
         ],
